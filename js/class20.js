@@ -27,3 +27,6 @@ arry.forEach((item,index)=>{
      console.log(item)
      console.log(index)
 })
+let value = null;
+console.log(null === value)
+console.log(isNaN(5))
